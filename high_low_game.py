@@ -66,7 +66,7 @@ while game_should_continue == True:
 
     if is_correct:
         score += 1
-        print(f"You are right! Your score is {score} points ☺️")
+        print(f"You are right! Your score is {score} points 😉")
     else:
         game_should_continue = False
         print(f"You are wrong! Your score is {score} 😈")
